@@ -15,5 +15,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Pour exécuter l'application localement :
 
 1. Clonez le dépôt :
+   ```bash
    git clone https://github.com/masterpiece2003/Spring_BOOT_CSV_Test.git
    cd Spring_BOOT_CSV_Test
