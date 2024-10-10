@@ -1,24 +1,19 @@
-# Read Me First
-The following was discovered as part of building this project:
+# Spring Boot CSV File Upload
 
-* The original package name 'com.alibou.file-upload' is invalid and this project uses 'com.alibou.fileupload' instead.
+Ce projet est un exemple d'application Spring Boot pour le téléversement de fichiers CSV.
 
-# Getting Started
+## Prérequis
 
-### Reference Documentation
-For further reference, please consider the following sections:
+Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.4/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.1.4/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/3.1.4/reference/htmlsingle/index.html#web)
-* [Spring Data JPA](https://docs.spring.io/spring-boot/docs/3.1.4/reference/htmlsingle/index.html#data.sql.jpa-and-spring-data)
+- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Apache Maven](https://maven.apache.org/)
+- [Git](https://git-scm.com/)
 
-### Guides
-The following guides illustrate how to use some features concretely:
+## Démarrage rapide
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+Pour exécuter l'application localement :
 
+1. Clonez le dépôt :
+   git clone https://github.com/masterpiece2003/Spring_BOOT_CSV_Test.git
+   cd Spring_BOOT_CSV_Test
